@@ -1,0 +1,19 @@
+{
+  "object_id": 329076,
+  "object_api_status": 200,
+  "object_api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/329076",
+  "object_api_json_ok": true,
+  "department": "Ancient West Asian Art",
+  "title": "Shaft-hole axe head with bird-headed demon, boar, and dragon",
+  "medium": "Silver, gold foil",
+  "objectName": "Axe",
+  "culture": "Bactria-Margiana Archaeological Complex",
+  "objectDate": "ca. late 3rd–early 2nd millennium BCE",
+  "accessionNumber": "1982.5",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/329076",
+  "search_api_status": 200,
+  "search_api_json_ok": true,
+  "object_page_status": 200,
+  "collectionlisting_status": 404,
+  "collectionlisting_json_ok": false
+}
